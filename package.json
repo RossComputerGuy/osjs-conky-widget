@@ -1,0 +1,26 @@
+{
+  "name": "osjs-conky-widget",
+  "version": "1.0.0",
+  "description": "Conky, a system monitor, for OS.js V3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceboyRoss01/osjs-conky-widget.git"
+  },
+  "keywords": [
+    "osjs",
+    "os.js",
+    "widget",
+    "conky",
+    "monitor"
+  ],
+  "author": "Spaceboy Ross",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SpaceboyRoss01/osjs-conky-widget/issues"
+  },
+  "homepage": "https://github.com/SpaceboyRoss01/osjs-conky-widget#readme"
+}
